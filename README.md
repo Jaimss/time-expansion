@@ -10,7 +10,7 @@ A PlaceholderAPI expansion for time.
 `%time_hours%` | the local hour
 `%time_hours12%` | the local hour (12 hour format)
 `%time_am_pm%` | AM / PM
-`%time_day% | the date's day
+`%time_day%` | the date's day
 `%time_month%` | the month
 `%time_year_long%` | long format for years (e.g 2020)
 `%time_year_short%` | short format for years (e.g 20)
