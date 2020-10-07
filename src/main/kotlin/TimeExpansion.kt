@@ -32,7 +32,7 @@ class TimeExpansion : PlaceholderExpansion() {
 
         }
 
-        if (identifier.startsWith("format_seconds")) {
+        if (identifier.startsWith("format_seconds_")) {
             val time = identifier.split("format_seconds_")[1].toIntOrNull() ?: return "invalid time"
             val formatted = time.toTimeFormatted().filter { (_, time) -> time != 0 }
             var formattedTimeString = ""
