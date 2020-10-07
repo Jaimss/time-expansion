@@ -1,6 +1,9 @@
 # time-expansion
 A PlaceholderAPI expansion for time.
 
+### Download
+Download it [here](https://api.extendedclip.com/expansions/time-expansion/)
+
 ### Placholders
 |Placholder|Definition|
 --- | ---
